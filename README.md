@@ -381,3 +381,6 @@ Both of these approaches have positives and negatives however their setup is out
 ###### Shout out to LinuxServer.io for their documentation and maintenance of the incredible Wireguard image.
 
 --- 
+
+Other Good Reads
+https://www.procustodibus.com/blog/2021/01/wireguard-endpoints-and-ip-addresses/
